@@ -1,5 +1,7 @@
 # Sample NodeJS application for Azure Pipelines docs
 
+[![Build Status](https://danxi.visualstudio.com/Pipeline%20Test/_apis/build/status/Pipeline%20Test-CI?branchName=master)](https://danxi.visualstudio.com/Pipeline%20Test/_build/latest?definitionId=1&branchName=master)
+
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
 | Example | Build status |
